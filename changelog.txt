@@ -1,0 +1,8 @@
+- Introducing Cipher logo in About Phone
+- Cipher Cave Now Supports Theming
+- Variety of Headers Added to Help You Customise Your Phone , Your Way
+- OnePlus Slate & OnePlus One Font Introduced !
+- Cipher Now Supports Caffeine Mode in QS
+- Tuned the Overall UI & Performance Of System
+- Face Unlock is Now Supported
+- Maintainer Name Shown in About Phone
