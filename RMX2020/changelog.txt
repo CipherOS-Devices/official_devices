@@ -1,4 +1,10 @@
-Initial Official build!
-Added smartwake
-Added Vooc charging
-Added 3 finger swipe ss
+-VoWifi Support Added
+-Volte more Stable
+-Gcam Go added by default (thanks to techyminati)
+-GApps flashing fixed
+-Video Lag fixed
+-Screen Recording lag fixed
+-Video Crashing fixed
+-Battery capacity fixed
+-Audio issues fixed
+-And many more
